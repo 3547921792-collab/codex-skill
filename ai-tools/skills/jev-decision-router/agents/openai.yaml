@@ -1,0 +1,4 @@
+interface:
+  display_name: "JEV Decision Router"
+  short_description: "Use Jev to choose project skills or approaches"
+  default_prompt: "Use TypeSafe Jev to evaluate the available skills, plugins, or implementation options and return a typed recommendation."

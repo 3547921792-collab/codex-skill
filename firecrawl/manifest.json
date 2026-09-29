@@ -1,0 +1,16 @@
+{
+  "group": "firecrawl",
+  "math_modeling_excluded": true,
+  "skills": [
+    "firecrawl-build",
+    "firecrawl-build-interact",
+    "firecrawl-build-onboarding",
+    "firecrawl-build-scrape",
+    "firecrawl-build-search",
+    "firecrawl-research-index"
+  ],
+  "files": 15,
+  "bytes": 35723,
+  "source": "Codex user skills backup",
+  "created_on": "2026-09-29"
+}
